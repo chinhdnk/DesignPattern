@@ -1,0 +1,15 @@
+/Users/chinhdo/Working/DesignPattern/SingletonPattern/bin/Debug/net9.0/SingletonPattern
+/Users/chinhdo/Working/DesignPattern/SingletonPattern/bin/Debug/net9.0/SingletonPattern.deps.json
+/Users/chinhdo/Working/DesignPattern/SingletonPattern/bin/Debug/net9.0/SingletonPattern.runtimeconfig.json
+/Users/chinhdo/Working/DesignPattern/SingletonPattern/bin/Debug/net9.0/SingletonPattern.dll
+/Users/chinhdo/Working/DesignPattern/SingletonPattern/bin/Debug/net9.0/SingletonPattern.pdb
+/Users/chinhdo/Working/DesignPattern/SingletonPattern/obj/Debug/net9.0/SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chinhdo/Working/DesignPattern/SingletonPattern/obj/Debug/net9.0/SingletonPattern.AssemblyInfoInputs.cache
+/Users/chinhdo/Working/DesignPattern/SingletonPattern/obj/Debug/net9.0/SingletonPattern.AssemblyInfo.cs
+/Users/chinhdo/Working/DesignPattern/SingletonPattern/obj/Debug/net9.0/SingletonPattern.csproj.CoreCompileInputs.cache
+/Users/chinhdo/Working/DesignPattern/SingletonPattern/obj/Debug/net9.0/SingletonPattern.sourcelink.json
+/Users/chinhdo/Working/DesignPattern/SingletonPattern/obj/Debug/net9.0/SingletonPattern.dll
+/Users/chinhdo/Working/DesignPattern/SingletonPattern/obj/Debug/net9.0/refint/SingletonPattern.dll
+/Users/chinhdo/Working/DesignPattern/SingletonPattern/obj/Debug/net9.0/SingletonPattern.pdb
+/Users/chinhdo/Working/DesignPattern/SingletonPattern/obj/Debug/net9.0/SingletonPattern.genruntimeconfig.cache
+/Users/chinhdo/Working/DesignPattern/SingletonPattern/obj/Debug/net9.0/ref/SingletonPattern.dll

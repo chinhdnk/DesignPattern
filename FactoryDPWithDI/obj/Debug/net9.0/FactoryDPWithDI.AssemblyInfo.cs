@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FactoryDPWithDI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eafdf3f525e1fb3e626178636037f273134caa0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FactoryDPWithDI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FactoryDPWithDI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
