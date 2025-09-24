@@ -1,0 +1,14 @@
+/Users/chinhdo/Working/DesignPattern/AbstractFactory/bin/Debug/net9.0/AbstractFactory
+/Users/chinhdo/Working/DesignPattern/AbstractFactory/bin/Debug/net9.0/AbstractFactory.deps.json
+/Users/chinhdo/Working/DesignPattern/AbstractFactory/bin/Debug/net9.0/AbstractFactory.runtimeconfig.json
+/Users/chinhdo/Working/DesignPattern/AbstractFactory/bin/Debug/net9.0/AbstractFactory.dll
+/Users/chinhdo/Working/DesignPattern/AbstractFactory/bin/Debug/net9.0/AbstractFactory.pdb
+/Users/chinhdo/Working/DesignPattern/AbstractFactory/obj/Debug/net9.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chinhdo/Working/DesignPattern/AbstractFactory/obj/Debug/net9.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/chinhdo/Working/DesignPattern/AbstractFactory/obj/Debug/net9.0/AbstractFactory.AssemblyInfo.cs
+/Users/chinhdo/Working/DesignPattern/AbstractFactory/obj/Debug/net9.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/chinhdo/Working/DesignPattern/AbstractFactory/obj/Debug/net9.0/AbstractFactory.dll
+/Users/chinhdo/Working/DesignPattern/AbstractFactory/obj/Debug/net9.0/refint/AbstractFactory.dll
+/Users/chinhdo/Working/DesignPattern/AbstractFactory/obj/Debug/net9.0/AbstractFactory.pdb
+/Users/chinhdo/Working/DesignPattern/AbstractFactory/obj/Debug/net9.0/AbstractFactory.genruntimeconfig.cache
+/Users/chinhdo/Working/DesignPattern/AbstractFactory/obj/Debug/net9.0/ref/AbstractFactory.dll
